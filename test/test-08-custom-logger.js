@@ -56,7 +56,8 @@ describe('Custom logger', function() {
           }
         }])
 
-      customLogger.info.getCall(2).args[0].must.eql('[AddonUsage/create] End')
+      customLogger.info.getCall(2).args[0].must.eql('[RecurlyData/execute] Start')
+      customLogger.info.getCall(3).args[0].must.eql('[AddonUsage/create] End')
       done()
     })
   })
