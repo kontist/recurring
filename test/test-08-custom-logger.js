@@ -44,7 +44,7 @@ describe('Custom logger', function() {
 
     addonUsage.create({ amount, usage_timestamp: usageTimestamp }, (err, usageRecord) => {
       demand(err).not.exist()
-      customLogger.info.callCount.must.equal(3)
+      customLogger.info.callCount.must.equal(4)
       customLogger.info.getCall(0).args[0].must.equal('Custom logger was set')
       customLogger.info.getCall(1).args.must.eql([
         '[AddonUsage/create] Start', {
@@ -56,7 +56,8 @@ describe('Custom logger', function() {
           }
         }])
 
-      customLogger.info.getCall(2).args[0].must.eql('[AddonUsage/create] End')
+      customLogger.info.getCall(2).args[0].must.eql('[RecurlyData/execute] Start')
+      customLogger.info.getCall(3).args[0].must.eql('[AddonUsage/create] End')
       done()
     })
   })
