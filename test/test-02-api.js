@@ -715,10 +715,10 @@ describe('Invoices', () => {
       wrong.must.throw(Error)
     })
 
-    it('can issue an open amount refund for a specific amount against an invoice', function(done) {
+    it('can issue refund for a specific line item from the invoice', function(done) {
       const refundableInvoice = _.find(this.invoices, invoice => _.get(invoice, 'a.refund'))
       debug('invoice to refund', refundableInvoice)
-      const refundOptions = { amount_in_cents: 5 }
+      const refundOptions = { uuid: refundableInvoice.properties.line_items[0].uuid, quantity: 1 }
 
       const invoice = recurly.Invoice()
       invoice.id = refundableInvoice.id
@@ -734,30 +734,7 @@ describe('Invoices', () => {
         invoice.must.have.property('invoice_number')
         invoice.invoice_number.must.not.equal(refundableInvoice.invoice_number)
         invoice.subtotal_in_cents.must.be.below(0)
-        invoice.subtotal_in_cents.must.equal(refundOptions.amount_in_cents * -1)
-        done()
-      })
-    })
-
-    it('can issue an open amount refund for the full amount against an invoice', function(done) {
-      const refundableInvoice = _.findLast(this.invoices, invoice => _.get(invoice, 'a.refund'))
-      debug('invoice to refund', refundableInvoice)
-
-      const invoice = recurly.Invoice()
-      invoice.id = refundableInvoice.id
-      invoice.invoice_number = refundableInvoice.invoice_number
-      invoice.refund(err => {
-        demand(err).not.exist()
-        debug('new refund invoice', invoice)
-        invoice.must.have.property('_resources')
-        invoice._resources.must.be.an.object()
-        invoice._resources.must.have.property('account')
-        invoice.must.have.property('properties')
-        invoice.must.be.an.object()
-        invoice.must.have.property('invoice_number')
-        invoice.invoice_number.must.not.equal(refundableInvoice.invoice_number)
-        invoice.total_in_cents.must.be.below(0)
-        invoice.total_in_cents.must.not.equal(refundableInvoice.total_in_cents * -1)
+        invoice.subtotal_in_cents.must.equal(refundableInvoice.total_in_cents * -1)
         done()
       })
     })
