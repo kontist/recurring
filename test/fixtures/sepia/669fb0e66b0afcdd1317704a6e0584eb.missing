@@ -1,0 +1,13 @@
+{
+  "url": "https://api.recurly.com:443/v2/invoices/1062/refund",
+  "method": "POST",
+  "headers": {
+    "Accept": "application/xml",
+    "Authorization": "Basic MjYwYmE3OTQ1OTJlNDBlMzhkMzBmMjMxNDNiMTM3NWI6",
+    "User-Agent": "recurring/2.7.0",
+    "X-Api-Version": "2.10",
+    "host": "api.recurly.com",
+    "content-length": 221
+  },
+  "body": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<invoice><line_items><adjustment/></line_items><refund_method>transaction_first</refund_method><external_refund>true</external_refund><payment_method>other</payment_method></invoice>"
+}

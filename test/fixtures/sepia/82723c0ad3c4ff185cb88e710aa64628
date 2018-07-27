@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<account href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83">
-  <adjustments href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/adjustments"/>
-  <account_balance href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/balance"/>
-  <invoices href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/invoices"/>
-  <shipping_addresses href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/shipping_addresses"/>
-  <subscriptions href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/subscriptions"/>
-  <transactions href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/transactions"/>
-  <account_code>failbilling9686566e-295d-443a-adc8-517879f8eb83</account_code>
+<account href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf">
+  <adjustments href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/adjustments"/>
+  <account_balance href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/balance"/>
+  <invoices href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/invoices"/>
+  <shipping_addresses href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/shipping_addresses"/>
+  <subscriptions href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/subscriptions"/>
+  <transactions href="https://api.recurly.com/v2/accounts/failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf/transactions"/>
+  <account_code>failbilling85be4577-5d6d-4ac9-bcf6-9586bc14f2bf</account_code>
   <state>active</state>
-  <username nil="nil"/>
+  <username nil="nil"></username>
   <email>test2@example.com</email>
-  <cc_emails nil="nil"/>
+  <cc_emails nil="nil"></cc_emails>
   <first_name>John</first_name>
   <last_name>Smallberries</last_name>
   <company_name>Yoyodyne Propulsion Systems</company_name>
-  <vat_number nil="nil"/>
+  <vat_number nil="nil"></vat_number>
   <address>
-    <address1 nil="nil"/>
-    <address2 nil="nil"/>
-    <city nil="nil"/>
-    <state nil="nil"/>
-    <zip nil="nil"/>
-    <country nil="nil"/>
-    <phone nil="nil"/>
+    <address1 nil="nil"></address1>
+    <address2 nil="nil"></address2>
+    <city nil="nil"></city>
+    <state nil="nil"></state>
+    <zip nil="nil"></zip>
+    <country nil="nil"></country>
+    <phone nil="nil"></phone>
   </address>
-  <accept_language nil="nil"/>
-  <hosted_login_token>5KeUKjGuDbFgVrdqEyFj6RP7Z9tP4wyW</hosted_login_token>
-  <created_at type="datetime">2018-06-25T15:44:18Z</created_at>
-  <updated_at type="datetime">2018-06-25T15:44:18Z</updated_at>
-  <closed_at nil="nil"/>
+  <accept_language nil="nil"></accept_language>
+  <hosted_login_token>LL66Xj36c6iAb5cSjScFdR3ZJMf7S9jq</hosted_login_token>
+  <created_at type="datetime">2018-07-27T10:23:12Z</created_at>
+  <updated_at type="datetime">2018-07-27T10:23:12Z</updated_at>
+  <closed_at nil="nil"></closed_at>
   <has_live_subscription type="boolean">false</has_live_subscription>
   <has_active_subscription type="boolean">false</has_active_subscription>
   <has_future_subscription type="boolean">false</has_future_subscription>

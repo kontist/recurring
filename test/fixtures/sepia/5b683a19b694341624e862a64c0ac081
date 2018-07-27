@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adjustment href="https://api.recurly.com/v2/adjustments/464a0f00670542e937bb544558acfe52" type="charge">
+  <account href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5"/>
+  <uuid>464a0f00670542e937bb544558acfe52</uuid>
+  <state>pending</state>
+  <description>A test charge for $20</description>
+  <accounting_code nil="nil"></accounting_code>
+  <product_code nil="nil"></product_code>
+  <origin>debit</origin>
+  <unit_amount_in_cents type="integer">2000</unit_amount_in_cents>
+  <quantity type="integer">1</quantity>
+  <discount_in_cents type="integer">0</discount_in_cents>
+  <tax_in_cents type="integer">0</tax_in_cents>
+  <total_in_cents type="integer">2000</total_in_cents>
+  <currency>USD</currency>
+  <taxable type="boolean">false</taxable>
+  <start_date type="datetime">2018-07-27T10:23:27Z</start_date>
+  <end_date nil="nil"></end_date>
+  <created_at type="datetime">2018-07-27T10:23:27Z</created_at>
+  <updated_at type="datetime">2018-07-27T10:23:27Z</updated_at>
+  <revenue_schedule_type></revenue_schedule_type>
+</adjustment>
