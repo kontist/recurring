@@ -1,0 +1,37 @@
+{
+  "statusCode": 201,
+  "headers": {
+    "date": "Fri, 27 Jul 2018 10:23:28 GMT",
+    "content-type": "application/xml; charset=utf-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "set-cookie": [
+      "__cfduid=db5b166bf40ca3b7dbcc6a977b31136141532687007; expires=Sat, 27-Jul-19 10:23:27 GMT; path=/; domain=.recurly.com; HttpOnly"
+    ],
+    "x-api-version": "2.7",
+    "content-language": "en-US",
+    "x-ratelimit-limit": "2000",
+    "x-ratelimit-remaining": "1901",
+    "x-ratelimit-reset": "1532687280",
+    "etag": "W/\"bbf87e8be78f4b4ba6c9cd4bddbba600\"",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "x-request-id": "03h56uah0qnt5sgkjk90",
+    "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "cf-ray": "440e6407f8062d89-TXL"
+  },
+  "url": "http://api.recurly.com:443/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/invoices",
+  "time": 329,
+  "request": {
+    "method": "POST",
+    "headers": {
+      "Accept": "application/xml",
+      "Authorization": "Basic MjYwYmE3OTQ1OTJlNDBlMzhkMzBmMjMxNDNiMTM3NWI6",
+      "User-Agent": "recurring/2.7.0",
+      "X-Api-Version": "2.7",
+      "host": "api.recurly.com",
+      "content-length": 0
+    }
+  }
+}

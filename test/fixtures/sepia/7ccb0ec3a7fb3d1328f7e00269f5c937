@@ -1,35 +1,397 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accounts type="array">
+  <account href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9">
+    <adjustments href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/fresh3731a0fb-9b47-4862-b549-6a1645df63f9/transactions"/>
+    <account_code>fresh3731a0fb-9b47-4862-b549-6a1645df63f9</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Whorfin</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>jeZ44uKwP2TH5eLCTLeahR6hudu9hhTR</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:23:05Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:23:09Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f">
+    <adjustments href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/cancel842c810f-7956-40f5-9f24-016d82e6ef9f/transactions"/>
+    <account_code>cancel842c810f-7956-40f5-9f24-016d82e6ef9f</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>gQKyAcBPZdV9GRG52KEo5iLvtu7wfz6x</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:21:24Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:21:25Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79">
+    <adjustments href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79/transactions"/>
+    <account_code>failbilling78cf3ac4-dd9b-4c31-87fd-b5a84410cc79</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test2@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Smallberries</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>ExYys4iB7o82zMFyDcaFebTCaNe3GiDy</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:21:09Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:21:09Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b">
+    <adjustments href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/update97607647-e30b-4731-b6d9-ff1572c9346b/transactions"/>
+    <account_code>update97607647-e30b-4731-b6d9-ff1572c9346b</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name>Yoyodyne Propulsion, International</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1>760 Market Street</address1>
+      <address2>Suite 500</address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>TMokv4PYsPGKAGhBrL66L8o3m3r8ekuB</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:21:08Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:21:09Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412">
+    <adjustments href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/balance"/>
+    <billing_info href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/billing_info"/>
+    <invoices href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/fresh2de71f69-8163-4127-b887-58abb706d412/transactions"/>
+    <account_code>fresh2de71f69-8163-4127-b887-58abb706d412</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Whorfin</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>rRtYF1M8J5Dk39dMZfor7CPmybMxbiAW</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:21:01Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:21:23Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f">
+    <adjustments href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/fresh8bf88c25-575f-43b4-ba70-ad07a38e338f/transactions"/>
+    <account_code>fresh8bf88c25-575f-43b4-ba70-ad07a38e338f</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Whorfin</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>CNTnsx4MYsE7ZP4VyYNjVQs5HXwisjS9</hosted_login_token>
+    <created_at type="datetime">2018-07-27T10:20:23Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:20:23Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd">
+    <adjustments href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd/transactions"/>
+    <account_code>fresh9fbd4520-9704-44a6-853f-c33ba41fe9fd</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Whorfin</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>Hp1A9UuUpGuixWrS6VQsd92rtGQvHmpm</hosted_login_token>
+    <created_at type="datetime">2018-07-06T12:25:02Z</created_at>
+    <updated_at type="datetime">2018-07-06T12:25:02Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0">
+    <adjustments href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/transactions"/>
+    <account_code>cancel52f94b92-b9f0-4b96-a277-7147f1852dd0</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>VEpAqNc48V8wgt5JffN7hZ9g5e7apFbC</hosted_login_token>
+    <created_at type="datetime">2018-06-25T15:44:39Z</created_at>
+    <updated_at type="datetime">2018-06-25T15:44:40Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83">
+    <adjustments href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/failbilling9686566e-295d-443a-adc8-517879f8eb83/transactions"/>
+    <account_code>failbilling9686566e-295d-443a-adc8-517879f8eb83</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email>test2@example.com</email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name>John</first_name>
+    <last_name>Smallberries</last_name>
+    <company_name>Yoyodyne Propulsion Systems</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>5KeUKjGuDbFgVrdqEyFj6RP7Z9tP4wyW</hosted_login_token>
+    <created_at type="datetime">2018-06-25T15:44:18Z</created_at>
+    <updated_at type="datetime">2018-06-25T15:44:18Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
+  <account href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f">
+    <adjustments href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/adjustments"/>
+    <account_balance href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/balance"/>
+    <invoices href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/invoices"/>
+    <shipping_addresses href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/shipping_addresses"/>
+    <subscriptions href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/subscriptions"/>
+    <transactions href="https://api.recurly.com/v2/accounts/updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f/transactions"/>
+    <account_code>updateff6ce6c2-42ee-43bc-a059-9aec2bb72d3f</account_code>
+    <state>active</state>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name>Yoyodyne Propulsion, International</company_name>
+    <vat_number nil="nil"></vat_number>
+    <address>
+      <address1>760 Market Street</address1>
+      <address2>Suite 500</address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
+    </address>
+    <accept_language nil="nil"></accept_language>
+    <hosted_login_token>gqxRTTopiXHpCAS5ShMce6a7ezn23tTY</hosted_login_token>
+    <created_at type="datetime">2018-06-25T15:44:17Z</created_at>
+    <updated_at type="datetime">2018-06-25T15:44:17Z</updated_at>
+    <closed_at nil="nil"></closed_at>
+    <has_live_subscription type="boolean">false</has_live_subscription>
+    <has_active_subscription type="boolean">false</has_active_subscription>
+    <has_future_subscription type="boolean">false</has_future_subscription>
+    <has_canceled_subscription type="boolean">false</has_canceled_subscription>
+    <has_past_due_invoice type="boolean">false</has_past_due_invoice>
+  </account>
   <account href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad">
     <adjustments href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/adjustments"/>
     <account_balance href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/balance"/>
+    <billing_info href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/billing_info"/>
     <invoices href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/invoices"/>
     <shipping_addresses href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/shipping_addresses"/>
     <subscriptions href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/subscriptions"/>
     <transactions href="https://api.recurly.com/v2/accounts/fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad/transactions"/>
     <account_code>fresh1e425a78-cd3b-4135-9d0f-fc4c6d08ccad</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>wY4VvXg1iBsDiiJe72M8ndiYrtVyxf1d</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:44:11Z</created_at>
-    <updated_at type="datetime">2018-06-25T15:44:15Z</updated_at>
-    <closed_at nil="nil"/>
+    <updated_at type="datetime">2018-07-27T10:20:25Z</updated_at>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -45,27 +407,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel56be7542-bbc1-4528-ac12-eb44ae6f2236/transactions"/>
     <account_code>cancel56be7542-bbc1-4528-ac12-eb44ae6f2236</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>HnYK7nXVkThH9Urn7aZmg2qNXiMFCAKJ</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:43:39Z</created_at>
     <updated_at type="datetime">2018-06-25T15:43:42Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -81,27 +443,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbillingdac17f83-7de6-491d-b31d-bbfc3e9ed4e7/transactions"/>
     <account_code>failbillingdac17f83-7de6-491d-b31d-bbfc3e9ed4e7</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>jDZPcxWUZsRZH5ZzKE6YHrJJLgrL6g2R</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:43:21Z</created_at>
     <updated_at type="datetime">2018-06-25T15:43:21Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -117,27 +479,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update2d4862dc-0f4f-4ea3-bbc0-c14986ee8ff2/transactions"/>
     <account_code>update2d4862dc-0f4f-4ea3-bbc0-c14986ee8ff2</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>LvJrhDDxJ7b7zmhAZc7fVzcTDh4Cpoia</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:43:20Z</created_at>
     <updated_at type="datetime">2018-06-25T15:43:20Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -154,27 +516,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh8b342045-563b-4e85-814a-06d9ad8d5317/transactions"/>
     <account_code>fresh8b342045-563b-4e85-814a-06d9ad8d5317</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>g6MabHsnHjPN6nxGpDW4Jyxb4y8Ad9H4</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:43:12Z</created_at>
     <updated_at type="datetime">2018-06-25T15:43:32Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -190,27 +552,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancelef78d4b2-acac-42db-bf40-59e950e4ac2e/transactions"/>
     <account_code>cancelef78d4b2-acac-42db-bf40-59e950e4ac2e</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>1QExEYqMVmXDouK2o9S4jKAzWiLkQFvH</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:39:55Z</created_at>
     <updated_at type="datetime">2018-06-25T15:39:56Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -226,27 +588,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling7d8c81c4-c8a0-4f0e-a832-4efd1bb056be/transactions"/>
     <account_code>failbilling7d8c81c4-c8a0-4f0e-a832-4efd1bb056be</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>a6VsUWkoheUFf7svCVG9BJ4bLQKENDMw</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:39:36Z</created_at>
     <updated_at type="datetime">2018-06-25T15:39:36Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -262,27 +624,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update19a04c22-1ede-4c12-bf8d-0af6574d693b/transactions"/>
     <account_code>update19a04c22-1ede-4c12-bf8d-0af6574d693b</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>3gTfYroDaSjTwamucEU6j3zUea2oPhEA</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:39:35Z</created_at>
     <updated_at type="datetime">2018-06-25T15:39:36Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -299,27 +661,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresha42cffcf-242f-41dd-b53c-1e564d2f7bf4/transactions"/>
     <account_code>fresha42cffcf-242f-41dd-b53c-1e564d2f7bf4</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>npyic35h44dAFydRH8vtvadsK5ZwYru2</hosted_login_token>
     <created_at type="datetime">2018-06-25T15:39:28Z</created_at>
     <updated_at type="datetime">2018-06-25T15:39:47Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -335,27 +697,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel6d663280-d135-48e0-b433-334347bfa6e7/transactions"/>
     <account_code>cancel6d663280-d135-48e0-b433-334347bfa6e7</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>j8JUVuTZh5wLniorh8Q35KehrDWCP8Wn</hosted_login_token>
     <created_at type="datetime">2018-06-25T11:33:51Z</created_at>
     <updated_at type="datetime">2018-06-25T11:33:52Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -371,27 +733,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling26cdb9ee-55e4-425f-81db-a171d0632ac9/transactions"/>
     <account_code>failbilling26cdb9ee-55e4-425f-81db-a171d0632ac9</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>M4cKn3fW5BUgpvhfgjTsvS3DR6PpJWK8</hosted_login_token>
     <created_at type="datetime">2018-06-25T11:33:35Z</created_at>
     <updated_at type="datetime">2018-06-25T11:33:35Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -407,27 +769,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/updatee12412c9-87a8-4bd7-bd01-e2389e4a0051/transactions"/>
     <account_code>updatee12412c9-87a8-4bd7-bd01-e2389e4a0051</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>CnL1cr5qJtsFaP7PDLc1UyAjdAR9wyj1</hosted_login_token>
     <created_at type="datetime">2018-06-25T11:33:34Z</created_at>
     <updated_at type="datetime">2018-06-25T11:33:35Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -444,27 +806,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh96f2f690-22bf-48db-83c5-afcee198a491/transactions"/>
     <account_code>fresh96f2f690-22bf-48db-83c5-afcee198a491</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>o9HsiWisbT3VsyECNPTj1rtwXUz63qee</hosted_login_token>
     <created_at type="datetime">2018-06-25T11:33:28Z</created_at>
     <updated_at type="datetime">2018-06-25T11:33:44Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -480,27 +842,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel3009d0f3-6d60-46bb-b33e-4590fab53104/transactions"/>
     <account_code>cancel3009d0f3-6d60-46bb-b33e-4590fab53104</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>1fJHCeyhAatoPd7zY6SYVGSEQntuVEH5</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:17:32Z</created_at>
     <updated_at type="datetime">2018-06-25T10:17:33Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -516,27 +878,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling01f1e992-7200-4a03-bc80-1caafb7d1382/transactions"/>
     <account_code>failbilling01f1e992-7200-4a03-bc80-1caafb7d1382</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>istVxFLsFzJu3EJq8BsU4RhwDuQnqhVA</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:17:14Z</created_at>
     <updated_at type="datetime">2018-06-25T10:17:14Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -552,27 +914,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update0df157bd-9a02-48cf-90a9-ec05d42ae242/transactions"/>
     <account_code>update0df157bd-9a02-48cf-90a9-ec05d42ae242</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>5Lt5NjPBLZdLSkxK3Wc24xwALSFbzArm</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:17:13Z</created_at>
     <updated_at type="datetime">2018-06-25T10:17:13Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -589,27 +951,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh05e17320-a418-48c6-8206-14361053e4c3/transactions"/>
     <account_code>fresh05e17320-a418-48c6-8206-14361053e4c3</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>M52SYk3RhfQ5DGySjgTjRkPNUguDcWAE</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:17:05Z</created_at>
     <updated_at type="datetime">2018-06-25T10:17:24Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -625,27 +987,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling75badec7-1965-4566-9a6f-faa6effcbc63/transactions"/>
     <account_code>failbilling75badec7-1965-4566-9a6f-faa6effcbc63</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>VBCgBsnVEtD38yN7g1ew8hC2ZQr5Ufdb</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:13:36Z</created_at>
     <updated_at type="datetime">2018-06-25T10:13:36Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -661,27 +1023,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update779bd615-84f4-4440-b370-15583c038388/transactions"/>
     <account_code>update779bd615-84f4-4440-b370-15583c038388</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>ejoBUa1qo6bc2pRYzU8TeFhu38ao7R6r</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:13:35Z</created_at>
     <updated_at type="datetime">2018-06-25T10:13:35Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -698,27 +1060,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshdcc6b32b-35fc-4315-aff8-859af359a834/transactions"/>
     <account_code>freshdcc6b32b-35fc-4315-aff8-859af359a834</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>JQzpBuuC2ZVRC74wYUiYpumuav5ZQpUr</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:13:29Z</created_at>
     <updated_at type="datetime">2018-06-25T10:13:46Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -734,27 +1096,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh9fc7ee1c-1984-4773-b002-7bdc906c47fc/transactions"/>
     <account_code>fresh9fc7ee1c-1984-4773-b002-7bdc906c47fc</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>ZTLWqUaYvbKSomzJDbfDHrD7yApBUUBE</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:13:06Z</created_at>
     <updated_at type="datetime">2018-06-25T10:13:06Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -770,27 +1132,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancelf572b676-5534-4c2f-8847-2db36d2b7771/transactions"/>
     <account_code>cancelf572b676-5534-4c2f-8847-2db36d2b7771</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>RxhhyvbFU8NrUvUowFbyDD9Ve3SXwjUL</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:10:47Z</created_at>
     <updated_at type="datetime">2018-06-25T10:10:48Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -806,27 +1168,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling1dcab191-617a-4baf-8893-e8a74aa7ab0a/transactions"/>
     <account_code>failbilling1dcab191-617a-4baf-8893-e8a74aa7ab0a</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>T6RcadwDEBu2ZqJxxGUPvcVGrRgqSL8o</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:08:25Z</created_at>
     <updated_at type="datetime">2018-06-25T10:08:25Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -842,27 +1204,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update144e3a70-c358-431e-b33e-c305af670ac1/transactions"/>
     <account_code>update144e3a70-c358-431e-b33e-c305af670ac1</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>GTCizMshkTZDG5BMGxjLm73JrVvHm8mR</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:08:24Z</created_at>
     <updated_at type="datetime">2018-06-25T10:08:24Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -879,27 +1241,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresha0c81d74-c9d6-4993-9b2d-cafdfd2f0d38/transactions"/>
     <account_code>fresha0c81d74-c9d6-4993-9b2d-cafdfd2f0d38</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>xwywAFRAanU6upn8Eqvn2JHBrEDrX9ZT</hosted_login_token>
     <created_at type="datetime">2018-06-25T10:08:17Z</created_at>
     <updated_at type="datetime">2018-06-25T10:08:39Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -915,27 +1277,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancelc22fdcbb-fe19-45af-91d8-4c98b926f2a7/transactions"/>
     <account_code>cancelc22fdcbb-fe19-45af-91d8-4c98b926f2a7</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>sh8zd47WriaD1H3GNxYEec84UUzF8zYq</hosted_login_token>
     <created_at type="datetime">2018-06-25T09:44:46Z</created_at>
     <updated_at type="datetime">2018-06-25T09:44:47Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -951,27 +1313,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling936aa216-c9f2-4c5e-8e3a-67e30235c7dd/transactions"/>
     <account_code>failbilling936aa216-c9f2-4c5e-8e3a-67e30235c7dd</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>r8xLCpRLh9jwfDFfjYuykAqYnY22oDbC</hosted_login_token>
     <created_at type="datetime">2018-06-25T09:44:28Z</created_at>
     <updated_at type="datetime">2018-06-25T09:44:28Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -987,27 +1349,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update160c139f-5614-4f05-8460-1ec68821da36/transactions"/>
     <account_code>update160c139f-5614-4f05-8460-1ec68821da36</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>C1t1oigBXmvPRyLgoP2Ks1hq9i53rDju</hosted_login_token>
     <created_at type="datetime">2018-06-25T09:44:27Z</created_at>
     <updated_at type="datetime">2018-06-25T09:44:27Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1024,27 +1386,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh2f3a5f42-dda5-4937-bb75-f9b670658406/transactions"/>
     <account_code>fresh2f3a5f42-dda5-4937-bb75-f9b670658406</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>R9We7V8ZpsKR6NBkr9d49wHTp6zehKc9</hosted_login_token>
     <created_at type="datetime">2018-06-25T09:44:21Z</created_at>
     <updated_at type="datetime">2018-06-25T09:44:38Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1060,27 +1422,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel28c0bd2e-7fb5-4ad9-bef2-d7d0e568b7b8/transactions"/>
     <account_code>cancel28c0bd2e-7fb5-4ad9-bef2-d7d0e568b7b8</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>gMUfKcYKUqxg87FbHAQMuCb2Xx5K76Ub</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:54:43Z</created_at>
     <updated_at type="datetime">2018-06-25T08:54:44Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1096,27 +1458,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling1365ad9e-b72d-4d00-a5ef-faa380bea49d/transactions"/>
     <account_code>failbilling1365ad9e-b72d-4d00-a5ef-faa380bea49d</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>js7PCnKoGYYXy9j2xPNpSY1R8z3cSHQr</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:54:26Z</created_at>
     <updated_at type="datetime">2018-06-25T08:54:26Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1132,27 +1494,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/updatea8bc9f64-fb7f-4fd1-91df-85766f0e25f8/transactions"/>
     <account_code>updatea8bc9f64-fb7f-4fd1-91df-85766f0e25f8</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>TndBMLSsJDJQ7sRPZogUozX6vpjk1wkS</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:54:25Z</created_at>
     <updated_at type="datetime">2018-06-25T08:54:25Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1169,27 +1531,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh86730e71-c8dd-4e6e-8ec3-98651b8ee3a7/transactions"/>
     <account_code>fresh86730e71-c8dd-4e6e-8ec3-98651b8ee3a7</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Y6xELYVw7ZXwUEiUzGB4r8cdd2Vm2J83</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:54:20Z</created_at>
     <updated_at type="datetime">2018-06-25T08:54:37Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1205,27 +1567,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel32696feb-843d-44e2-bbcb-460496e7c789/transactions"/>
     <account_code>cancel32696feb-843d-44e2-bbcb-460496e7c789</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>C8qmb2ekMkU7Gdnxy8Rh9jeeTD4FwHWv</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:53:50Z</created_at>
     <updated_at type="datetime">2018-06-25T08:53:52Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1241,27 +1603,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling83cb309d-67ac-4243-aaa8-3f0af3fb8924/transactions"/>
     <account_code>failbilling83cb309d-67ac-4243-aaa8-3f0af3fb8924</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Vdd53F7DiwdDSmYjMx8Rm4DUF8VnHHLB</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:53:34Z</created_at>
     <updated_at type="datetime">2018-06-25T08:53:34Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1277,27 +1639,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update4a502556-cade-49b9-ba8c-46ecedc761ef/transactions"/>
     <account_code>update4a502556-cade-49b9-ba8c-46ecedc761ef</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>d2x99S3rWXPDowsiafPBiUdKTFMmdF2b</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:53:33Z</created_at>
     <updated_at type="datetime">2018-06-25T08:53:33Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1314,27 +1676,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshd4aefe9f-a896-4af3-a277-180a8708ff2a/transactions"/>
     <account_code>freshd4aefe9f-a896-4af3-a277-180a8708ff2a</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Gx3S8Vvzq9NTYkzm5vLoGbQMSh39m6ge</hosted_login_token>
     <created_at type="datetime">2018-06-25T08:53:25Z</created_at>
     <updated_at type="datetime">2018-06-25T08:53:43Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1350,27 +1712,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel06065e09-1986-44e1-9dae-aec273fa522c/transactions"/>
     <account_code>cancel06065e09-1986-44e1-9dae-aec273fa522c</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>S1WaFL3rALFPtvidWe8NyoTQbWfpUhah</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:13:35Z</created_at>
     <updated_at type="datetime">2018-06-05T12:13:37Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1386,27 +1748,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling3d22b5af-6d95-495a-b7e8-8baeb8bbfe76/transactions"/>
     <account_code>failbilling3d22b5af-6d95-495a-b7e8-8baeb8bbfe76</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>EUCYGDiaSmXsqLChr4vPa7CJQQok343r</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:13:16Z</created_at>
     <updated_at type="datetime">2018-06-05T12:13:16Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1422,27 +1784,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update2eff39c8-0280-4d85-be53-c88e97dbe42f/transactions"/>
     <account_code>update2eff39c8-0280-4d85-be53-c88e97dbe42f</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>MfbTETBtMbq4VrNGUd5XGespjCeQq6uz</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:13:14Z</created_at>
     <updated_at type="datetime">2018-06-05T12:13:14Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1459,27 +1821,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresha580998d-52f7-48d6-a594-171cbb668acf/transactions"/>
     <account_code>fresha580998d-52f7-48d6-a594-171cbb668acf</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>tkM4N7eCCPZ87AQA2eoe57CFhu8zL3jW</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:13:08Z</created_at>
     <updated_at type="datetime">2018-06-05T12:13:29Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1495,27 +1857,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancelfff70f09-b4e8-47b9-b35f-9521f92fb742/transactions"/>
     <account_code>cancelfff70f09-b4e8-47b9-b35f-9521f92fb742</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>g4hJEbKY5sv2pGqmGxHFZsYRuqSV4TsK</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:12:49Z</created_at>
     <updated_at type="datetime">2018-06-05T12:12:51Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1531,27 +1893,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling9cffc429-82da-4935-9405-c66ce345703a/transactions"/>
     <account_code>failbilling9cffc429-82da-4935-9405-c66ce345703a</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>X4EgFk9a3zGqjGkNPZZFRhLuGGrLZx8T</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:12:33Z</created_at>
     <updated_at type="datetime">2018-06-05T12:12:33Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1567,27 +1929,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update013b9736-0450-44b2-9fc5-6c7b6bee2192/transactions"/>
     <account_code>update013b9736-0450-44b2-9fc5-6c7b6bee2192</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>z81R81hGA4RzRZknvEhCWoYVjovTyWqf</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:12:32Z</created_at>
     <updated_at type="datetime">2018-06-05T12:12:32Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1604,27 +1966,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh6b3dc764-472c-4d52-86ee-3885ae2f1c90/transactions"/>
     <account_code>fresh6b3dc764-472c-4d52-86ee-3885ae2f1c90</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>B4M9gRsyesFT6MtLE61siDRKgbDnhDhz</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:12:27Z</created_at>
     <updated_at type="datetime">2018-06-05T12:12:43Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1640,27 +2002,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update7327b023-c08d-440f-bc3d-44e93c1e3179/transactions"/>
     <account_code>update7327b023-c08d-440f-bc3d-44e93c1e3179</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>odnCixKbcHhfXKUTx2KQQX2SFKEYPG51</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:11:44Z</created_at>
     <updated_at type="datetime">2018-06-05T12:11:45Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1676,27 +2038,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshd3eba5f5-e086-4960-9147-fdf1a100e797/transactions"/>
     <account_code>freshd3eba5f5-e086-4960-9147-fdf1a100e797</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>WrbFWoDqfzVwMi8hctzWK1TLpYqaKc74</hosted_login_token>
     <created_at type="datetime">2018-06-05T12:11:43Z</created_at>
     <updated_at type="datetime">2018-06-05T12:11:43Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1712,27 +2074,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshed93cf7b-e594-41ae-98f8-b48324433b79/transactions"/>
     <account_code>freshed93cf7b-e594-41ae-98f8-b48324433b79</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>GJ8YjpXvK3TW8hNrukxCq9CZEqiAmzNT</hosted_login_token>
     <created_at type="datetime">2018-05-31T15:34:18Z</created_at>
     <updated_at type="datetime">2018-05-31T15:34:18Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1748,27 +2110,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel21e7a84b-c554-49c0-af1b-b3847c9b412d/transactions"/>
     <account_code>cancel21e7a84b-c554-49c0-af1b-b3847c9b412d</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>ZpPBcuSXe6xGewbJ3pBYoY31SvUUqCEV</hosted_login_token>
     <created_at type="datetime">2018-05-30T19:13:44Z</created_at>
     <updated_at type="datetime">2018-05-30T19:13:48Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1784,27 +2146,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling0aadbffa-77ac-4f11-9728-f014cadecdc2/transactions"/>
     <account_code>failbilling0aadbffa-77ac-4f11-9728-f014cadecdc2</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Nm2X9iYGHWJjoF3taDGrc1hzJ64Qvpid</hosted_login_token>
     <created_at type="datetime">2018-05-30T19:13:26Z</created_at>
     <updated_at type="datetime">2018-05-30T19:13:26Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1820,27 +2182,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/updatef6f299f5-afa2-4bdb-84a3-d0b3e8856cf5/transactions"/>
     <account_code>updatef6f299f5-afa2-4bdb-84a3-d0b3e8856cf5</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>KdgKTDN2WriHgRj7xzyjDaJubWRX6XNL</hosted_login_token>
     <created_at type="datetime">2018-05-30T19:13:24Z</created_at>
     <updated_at type="datetime">2018-05-30T19:13:25Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1857,27 +2219,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshe5a4789e-1540-4245-8cca-84190439597e/transactions"/>
     <account_code>freshe5a4789e-1540-4245-8cca-84190439597e</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>YWXWbgqKLXjEkV4LtvWGSAG9hQDk9NoQ</hosted_login_token>
     <created_at type="datetime">2018-05-30T19:13:14Z</created_at>
     <updated_at type="datetime">2018-05-30T19:13:37Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1893,27 +2255,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/canceld62d89b9-fac4-4cdb-98dd-082d85eafd3a/transactions"/>
     <account_code>canceld62d89b9-fac4-4cdb-98dd-082d85eafd3a</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>3kVjLHzVT7NJqbFSXGHDZvHFt2sc8Fxy</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:56Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:57Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1929,27 +2291,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling118845e2-34b6-4705-aa51-1e153c97c73c/transactions"/>
     <account_code>failbilling118845e2-34b6-4705-aa51-1e153c97c73c</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>WtZ9bCJGY5kL2AoE2V4wNAJBLzfxbFAq</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:44Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:44Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -1965,27 +2327,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update9ee0077e-d345-4692-8ab0-8af6531f1e3e/transactions"/>
     <account_code>update9ee0077e-d345-4692-8ab0-8af6531f1e3e</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>sgj6JjfkMNJu2gupXaLih8KeXo2wRbzi</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:43Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:43Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2002,27 +2364,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh9a08295a-2183-4ed8-adf3-0973644f96ba/transactions"/>
     <account_code>fresh9a08295a-2183-4ed8-adf3-0973644f96ba</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>hdVP6V8PFGaM7Ar2MaJYNBG2Mt3RqMuv</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:39Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:51Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2038,27 +2400,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel7dee412e-d95f-4c04-99d4-d84b05baa323/transactions"/>
     <account_code>cancel7dee412e-d95f-4c04-99d4-d84b05baa323</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>8wCNQFM5QL9D3bypbYxvNHkjkGt1sQR1</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:17Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:18Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2074,27 +2436,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbillinge563bcd5-9785-4f0c-b995-5d79f33f22a5/transactions"/>
     <account_code>failbillinge563bcd5-9785-4f0c-b995-5d79f33f22a5</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>3C5th9HfgMBAA8ScGMbQGBMtuarLML3M</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:03Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:03Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2110,27 +2472,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update6b45b219-0ab6-4352-bb7e-be89c01852d9/transactions"/>
     <account_code>update6b45b219-0ab6-4352-bb7e-be89c01852d9</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>3zGLXw9fUQebdZWGGYrGUJvzKfiJ9E1L</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:33:02Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:02Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2147,27 +2509,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshada66c3c-1637-4b4c-aba5-314d027c73d5/transactions"/>
     <account_code>freshada66c3c-1637-4b4c-aba5-314d027c73d5</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>UrCwDvhctEL21Gc5AtK9QBaNx8kNaCr6</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:32:56Z</created_at>
     <updated_at type="datetime">2018-05-28T12:33:12Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2183,27 +2545,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancelde2a2b15-1210-48ca-85c7-97b7058ffc93/transactions"/>
     <account_code>cancelde2a2b15-1210-48ca-85c7-97b7058ffc93</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>5WBXa4t4KGHHneZhf9ZAgKySQ1GdEt1T</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:32:02Z</created_at>
     <updated_at type="datetime">2018-05-28T12:32:03Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2219,27 +2581,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling2284dda4-da98-4473-b222-91af08d5c05d/transactions"/>
     <account_code>failbilling2284dda4-da98-4473-b222-91af08d5c05d</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>LzHQ75H8WaCGAuUnbZvAYd8yLFH3cNEd</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:31:46Z</created_at>
     <updated_at type="datetime">2018-05-28T12:31:46Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2255,27 +2617,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/updatefc234bf1-8783-4f45-92be-8e1f263e12a1/transactions"/>
     <account_code>updatefc234bf1-8783-4f45-92be-8e1f263e12a1</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
       <address1>760 Market Street</address1>
       <address2>Suite 500</address2>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>dyg1hkEY3cjcxAA9xjkYkbrTdSaRtVbb</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:31:45Z</created_at>
     <updated_at type="datetime">2018-05-28T12:31:45Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2292,27 +2654,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/freshd586a058-3f8d-469c-8a71-d61de0374a4d/transactions"/>
     <account_code>freshd586a058-3f8d-469c-8a71-d61de0374a4d</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>okfG4Qd6ifB8XrpYbA3fNKiyFTcQLv6z</hosted_login_token>
     <created_at type="datetime">2018-05-28T12:31:40Z</created_at>
     <updated_at type="datetime">2018-05-28T12:31:56Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2328,27 +2690,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cancel64a23c63-f288-4b4a-824f-744d21fcb8ed/transactions"/>
     <account_code>cancel64a23c63-f288-4b4a-824f-744d21fcb8ed</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Z19YpzhsiAhVQGMNs2jjMnEKMHmYxTzv</hosted_login_token>
     <created_at type="datetime">2018-05-25T11:17:03Z</created_at>
     <updated_at type="datetime">2018-05-25T11:17:05Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2364,27 +2726,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/failbilling55ecd7dd-1e9d-4534-a2f0-d0f891bdeffd/transactions"/>
     <account_code>failbilling55ecd7dd-1e9d-4534-a2f0-d0f891bdeffd</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>c52wUk7wpXnA8SDKE1C4YVyHFk9Zjqjk</hosted_login_token>
     <created_at type="datetime">2018-05-25T11:16:50Z</created_at>
     <updated_at type="datetime">2018-05-25T11:16:50Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2400,27 +2762,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/update8fc22ae8-b69c-4de7-87aa-367e69be2ba0/transactions"/>
     <account_code>update8fc22ae8-b69c-4de7-87aa-367e69be2ba0</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>YKmEYA6V1LsfNoPJHMTzgWgeboxnTEAG</hosted_login_token>
     <created_at type="datetime">2018-05-25T11:16:48Z</created_at>
     <updated_at type="datetime">2018-05-25T11:16:49Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2437,27 +2799,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/fresh93fc89cd-f928-4dd1-99e9-b9d2fcbb6550/transactions"/>
     <account_code>fresh93fc89cd-f928-4dd1-99e9-b9d2fcbb6550</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Lg8gijB1dBU65svW8K8n1UrwsaLuyRrM</hosted_login_token>
     <created_at type="datetime">2018-05-25T11:16:44Z</created_at>
     <updated_at type="datetime">2018-05-25T11:16:58Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2473,27 +2835,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/dda52466-9642-4f96-b7c9-75fbda2c2beb/transactions"/>
     <account_code>dda52466-9642-4f96-b7c9-75fbda2c2beb</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>QEaVh8oUbQUwLLzMW1FeJQReap25vHhE</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:26:29Z</created_at>
     <updated_at type="datetime">2018-05-24T15:26:29Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2509,27 +2871,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/160c6a1a-a9ca-454d-9a00-814a5afe4d79/transactions"/>
     <account_code>160c6a1a-a9ca-454d-9a00-814a5afe4d79</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>9ifyARPboL17R4dUXdVv86JL7HnqLjy9</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:26:29Z</created_at>
     <updated_at type="datetime">2018-05-24T15:26:29Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2545,27 +2907,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/4f764c4a-a6c7-42dc-ae8f-dd0b83f8b17e/transactions"/>
     <account_code>4f764c4a-a6c7-42dc-ae8f-dd0b83f8b17e</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>krZtRhN3Jj3ReXjVHCjNevGT24vXDpbd</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:26:26Z</created_at>
     <updated_at type="datetime">2018-05-24T15:26:28Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2581,27 +2943,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/6d66b07e-b1a9-4d76-90db-cc1f96578235/transactions"/>
     <account_code>6d66b07e-b1a9-4d76-90db-cc1f96578235</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>S7vBJc47q3ttJBry9n7ZPxQN78zPfyDe</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:26:11Z</created_at>
     <updated_at type="datetime">2018-05-24T15:26:11Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2618,27 +2980,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/91b0a1c7-a559-41a8-b959-dabe46444b89/transactions"/>
     <account_code>91b0a1c7-a559-41a8-b959-dabe46444b89</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>cR8HzdSdfzjQCPQCrYmWJE2g9SDqTPEY</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:26:07Z</created_at>
     <updated_at type="datetime">2018-05-24T15:26:22Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2654,27 +3016,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/e974951a-ca3b-4650-a0d0-14cd4d0b8240/transactions"/>
     <account_code>e974951a-ca3b-4650-a0d0-14cd4d0b8240</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>DvKW9utnxvguBbPHJu8QJqHKYoVFh8Rp</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:23:32Z</created_at>
     <updated_at type="datetime">2018-05-24T15:23:32Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2690,27 +3052,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/50b26733-b80f-497c-a70d-0ed76167809b/transactions"/>
     <account_code>50b26733-b80f-497c-a70d-0ed76167809b</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>oDhsne88hBrpVLgAzoemMLUHTj1U65Y2</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:23:31Z</created_at>
     <updated_at type="datetime">2018-05-24T15:23:31Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2726,27 +3088,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/15169366-2c39-42a0-9929-08a5376bacaf/transactions"/>
     <account_code>15169366-2c39-42a0-9929-08a5376bacaf</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>6onTTWWf3sXXnVnPo4pn8Sns7P7ez4FM</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:23:28Z</created_at>
     <updated_at type="datetime">2018-05-24T15:23:30Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2762,27 +3124,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/f508e823-eebc-43ec-9d70-be75acd8ebe5/transactions"/>
     <account_code>f508e823-eebc-43ec-9d70-be75acd8ebe5</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>nz72xHWhHihq4WLsVSDJAa6cnT7briJw</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:23:14Z</created_at>
     <updated_at type="datetime">2018-05-24T15:23:14Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2799,27 +3161,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/02d9c9a0-66e3-4fd0-b252-bcb35acee8dc/transactions"/>
     <account_code>02d9c9a0-66e3-4fd0-b252-bcb35acee8dc</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>XwTZ13UnxFMRHdudk9NuRHXBcRN4jpBj</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:23:09Z</created_at>
     <updated_at type="datetime">2018-05-24T15:23:24Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2835,27 +3197,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/78a0d47c-a00c-4a46-99eb-62b0c79f4a71/transactions"/>
     <account_code>78a0d47c-a00c-4a46-99eb-62b0c79f4a71</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>rv5CQBnB4HosYmcui8DWmVLhV4y6JMEf</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:21:55Z</created_at>
     <updated_at type="datetime">2018-05-24T15:21:55Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2871,27 +3233,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/d3965e88-10a7-4d17-91b9-98ccea50c78c/transactions"/>
     <account_code>d3965e88-10a7-4d17-91b9-98ccea50c78c</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>xmfimqv8vURf4Gvzp1xBWXJkTC628ifw</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:21:54Z</created_at>
     <updated_at type="datetime">2018-05-24T15:21:54Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2907,27 +3269,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/e85a4bad-36fe-471f-a365-c9e156ad4821/transactions"/>
     <account_code>e85a4bad-36fe-471f-a365-c9e156ad4821</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>gznbREZykDG2fYqwLbNxC1fnFXezXEbj</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:21:51Z</created_at>
     <updated_at type="datetime">2018-05-24T15:21:53Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2943,27 +3305,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/cbac166f-0284-4d83-957d-54072da077ff/transactions"/>
     <account_code>cbac166f-0284-4d83-957d-54072da077ff</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>ji3ZmG6nMEiY4zdgiJ13DTeDsNQMS9Xb</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:21:36Z</created_at>
     <updated_at type="datetime">2018-05-24T15:21:36Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -2980,27 +3342,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/7b156fc1-4b87-455c-9868-4917fb3d7277/transactions"/>
     <account_code>7b156fc1-4b87-455c-9868-4917fb3d7277</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>Z3y92ywNxt6qYdobjnu7gm3nFDLLRzqL</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:21:31Z</created_at>
     <updated_at type="datetime">2018-05-24T15:21:48Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3016,27 +3378,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/44247167-7078-470f-8844-d30b4c08d369/transactions"/>
     <account_code>44247167-7078-470f-8844-d30b4c08d369</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>kvYEA1w1oADDGHtEQ2mtZDstiygwCcUg</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:19:40Z</created_at>
     <updated_at type="datetime">2018-05-24T15:19:40Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3052,27 +3414,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/2452be15-ddf4-4d8d-b313-f7488eccca42/transactions"/>
     <account_code>2452be15-ddf4-4d8d-b313-f7488eccca42</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>KPdvvq9UGn4obkHZzSmJe29kn2kAPsAL</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:19:39Z</created_at>
     <updated_at type="datetime">2018-05-24T15:19:39Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3088,27 +3450,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/b3fe8015-5d5b-4988-adee-99acf6f26610/transactions"/>
     <account_code>b3fe8015-5d5b-4988-adee-99acf6f26610</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>h6xivtRNcxs2FfSJMSGbsmaECeDWjYYT</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:19:36Z</created_at>
     <updated_at type="datetime">2018-05-24T15:19:38Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3124,27 +3486,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/26b9c1a0-cbf7-4ac2-81c1-1dd592073aec/transactions"/>
     <account_code>26b9c1a0-cbf7-4ac2-81c1-1dd592073aec</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>RJx7PJ4j6pXThKNCd7jDZcXpCpvmKjKb</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:19:27Z</created_at>
     <updated_at type="datetime">2018-05-24T15:19:27Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3161,27 +3523,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/b79cf1b6-456d-4599-900d-53cb343bf7e8/transactions"/>
     <account_code>b79cf1b6-456d-4599-900d-53cb343bf7e8</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>g3Ng5HR5L3jRDe4LCqEKy4jC9kZu47Jn</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:19:22Z</created_at>
     <updated_at type="datetime">2018-05-24T15:19:33Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3197,27 +3559,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/b3f133b5-f451-45da-b96a-a3ed3ca5c609/transactions"/>
     <account_code>b3f133b5-f451-45da-b96a-a3ed3ca5c609</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>hfAGrNurCietGMoWcvSzEz4eoEvPEHDs</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:17:17Z</created_at>
     <updated_at type="datetime">2018-05-24T15:17:17Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3233,27 +3595,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/47b592a6-dda5-44cd-bcb9-ccfa40abbad0/transactions"/>
     <account_code>47b592a6-dda5-44cd-bcb9-ccfa40abbad0</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>DKCj1r2acpC1nGwxE71w5sd6E5oTa46p</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:17:16Z</created_at>
     <updated_at type="datetime">2018-05-24T15:17:16Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3269,27 +3631,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/ad9175ad-daf1-457f-9123-98a2f13b7918/transactions"/>
     <account_code>ad9175ad-daf1-457f-9123-98a2f13b7918</account_code>
     <state>active</state>
-    <username nil="nil"/>
-    <email nil="nil"/>
-    <cc_emails nil="nil"/>
-    <first_name nil="nil"/>
-    <last_name nil="nil"/>
-    <company_name nil="nil"/>
-    <vat_number nil="nil"/>
+    <username nil="nil"></username>
+    <email nil="nil"></email>
+    <cc_emails nil="nil"></cc_emails>
+    <first_name nil="nil"></first_name>
+    <last_name nil="nil"></last_name>
+    <company_name nil="nil"></company_name>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>c3aLodfSAgT3VMGXcg3mpdVzLzZu3QVd</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:17:15Z</created_at>
     <updated_at type="datetime">2018-05-24T15:17:15Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3305,27 +3667,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/2f1e88e3-ddce-459d-abf9-f521157431b9/transactions"/>
     <account_code>2f1e88e3-ddce-459d-abf9-f521157431b9</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test2@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Smallberries</last_name>
     <company_name>Yoyodyne Propulsion Systems</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>gaSoZDehmqGy5oHftjzXCsYiCTEnyMnU</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:17:06Z</created_at>
     <updated_at type="datetime">2018-05-24T15:17:06Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>
@@ -3342,27 +3704,27 @@
     <transactions href="https://api.recurly.com/v2/accounts/54509324-a6e6-44cc-85a0-7ad16c8d24bc/transactions"/>
     <account_code>54509324-a6e6-44cc-85a0-7ad16c8d24bc</account_code>
     <state>active</state>
-    <username nil="nil"/>
+    <username nil="nil"></username>
     <email>test@example.com</email>
-    <cc_emails nil="nil"/>
+    <cc_emails nil="nil"></cc_emails>
     <first_name>John</first_name>
     <last_name>Whorfin</last_name>
     <company_name>Yoyodyne Propulsion, International</company_name>
-    <vat_number nil="nil"/>
+    <vat_number nil="nil"></vat_number>
     <address>
-      <address1 nil="nil"/>
-      <address2 nil="nil"/>
-      <city nil="nil"/>
-      <state nil="nil"/>
-      <zip nil="nil"/>
-      <country nil="nil"/>
-      <phone nil="nil"/>
+      <address1 nil="nil"></address1>
+      <address2 nil="nil"></address2>
+      <city nil="nil"></city>
+      <state nil="nil"></state>
+      <zip nil="nil"></zip>
+      <country nil="nil"></country>
+      <phone nil="nil"></phone>
     </address>
-    <accept_language nil="nil"/>
+    <accept_language nil="nil"></accept_language>
     <hosted_login_token>uu2jk4AfqNnZ1N3PeX8o5k5JSNLjLt5f</hosted_login_token>
     <created_at type="datetime">2018-05-24T15:17:01Z</created_at>
     <updated_at type="datetime">2018-05-24T15:17:09Z</updated_at>
-    <closed_at nil="nil"/>
+    <closed_at nil="nil"></closed_at>
     <has_live_subscription type="boolean">false</has_live_subscription>
     <has_active_subscription type="boolean">false</has_active_subscription>
     <has_future_subscription type="boolean">false</has_future_subscription>

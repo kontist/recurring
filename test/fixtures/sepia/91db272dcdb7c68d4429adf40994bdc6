@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<errors>
+  <error field="invoice.charges" symbol="missing"> is not a valid charge on Invoice #1067</error>
+</errors>

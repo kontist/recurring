@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<account href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0">
-  <adjustments href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/adjustments"/>
-  <account_balance href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/balance"/>
-  <invoices href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/invoices"/>
-  <shipping_addresses href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/shipping_addresses"/>
-  <subscriptions href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/subscriptions"/>
-  <transactions href="https://api.recurly.com/v2/accounts/cancel52f94b92-b9f0-4b96-a277-7147f1852dd0/transactions"/>
-  <account_code>cancel52f94b92-b9f0-4b96-a277-7147f1852dd0</account_code>
+<account href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5">
+  <adjustments href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/adjustments"/>
+  <account_balance href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/balance"/>
+  <invoices href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/invoices"/>
+  <shipping_addresses href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/shipping_addresses"/>
+  <subscriptions href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/subscriptions"/>
+  <transactions href="https://api.recurly.com/v2/accounts/cancelf827236f-d960-4c51-991a-9aa85e99c9b5/transactions"/>
+  <account_code>cancelf827236f-d960-4c51-991a-9aa85e99c9b5</account_code>
   <state>active</state>
-  <username nil="nil"/>
-  <email nil="nil"/>
-  <cc_emails nil="nil"/>
-  <first_name nil="nil"/>
-  <last_name nil="nil"/>
-  <company_name nil="nil"/>
-  <vat_number nil="nil"/>
+  <username nil="nil"></username>
+  <email nil="nil"></email>
+  <cc_emails nil="nil"></cc_emails>
+  <first_name nil="nil"></first_name>
+  <last_name nil="nil"></last_name>
+  <company_name nil="nil"></company_name>
+  <vat_number nil="nil"></vat_number>
   <address>
-    <address1 nil="nil"/>
-    <address2 nil="nil"/>
-    <city nil="nil"/>
-    <state nil="nil"/>
-    <zip nil="nil"/>
-    <country nil="nil"/>
-    <phone nil="nil"/>
+    <address1 nil="nil"></address1>
+    <address2 nil="nil"></address2>
+    <city nil="nil"></city>
+    <state nil="nil"></state>
+    <zip nil="nil"></zip>
+    <country nil="nil"></country>
+    <phone nil="nil"></phone>
   </address>
-  <accept_language nil="nil"/>
-  <hosted_login_token>VEpAqNc48V8wgt5JffN7hZ9g5e7apFbC</hosted_login_token>
-  <created_at type="datetime">2018-06-25T15:44:39Z</created_at>
-  <updated_at type="datetime">2018-06-25T15:44:39Z</updated_at>
-  <closed_at nil="nil"/>
+  <accept_language nil="nil"></accept_language>
+  <hosted_login_token>bEjXKTRZjvifx5GURpGjguLxQF5xim9w</hosted_login_token>
+  <created_at type="datetime">2018-07-27T10:23:27Z</created_at>
+  <updated_at type="datetime">2018-07-27T10:23:27Z</updated_at>
+  <closed_at nil="nil"></closed_at>
   <has_live_subscription type="boolean">false</has_live_subscription>
   <has_active_subscription type="boolean">false</has_active_subscription>
   <has_future_subscription type="boolean">false</has_future_subscription>

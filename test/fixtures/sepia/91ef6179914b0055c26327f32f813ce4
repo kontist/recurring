@@ -1,5 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plans type="array">
+  <plan href="https://api.recurly.com/v2/plans/testpland3f358e3-5684-4b10-8b53-4f6448507a79">
+    <add_ons href="https://api.recurly.com/v2/plans/testpland3f358e3-5684-4b10-8b53-4f6448507a79/add_ons"/>
+    <plan_code>testpland3f358e3-5684-4b10-8b53-4f6448507a79</plan_code>
+    <name>Test Plan d3f358e3-5684-4b10-8b53-4f6448507a79</name>
+    <description nil="nil"></description>
+    <success_url nil="nil"></success_url>
+    <cancel_url nil="nil"></cancel_url>
+    <display_donation_amounts type="boolean">false</display_donation_amounts>
+    <display_quantity type="boolean">false</display_quantity>
+    <display_phone_number type="boolean">false</display_phone_number>
+    <bypass_hosted_confirmation type="boolean">false</bypass_hosted_confirmation>
+    <unit_name>unit</unit_name>
+    <payment_page_tos_link nil="nil"></payment_page_tos_link>
+    <plan_interval_length type="integer">1</plan_interval_length>
+    <plan_interval_unit>months</plan_interval_unit>
+    <trial_interval_length type="integer">0</trial_interval_length>
+    <trial_interval_unit>days</trial_interval_unit>
+    <total_billing_cycles nil="nil"></total_billing_cycles>
+    <accounting_code nil="nil"></accounting_code>
+    <setup_fee_accounting_code nil="nil"></setup_fee_accounting_code>
+    <created_at type="datetime">2018-07-27T10:23:05Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:23:05Z</updated_at>
+    <revenue_schedule_type>evenly</revenue_schedule_type>
+    <setup_fee_revenue_schedule_type>evenly</setup_fee_revenue_schedule_type>
+    <trial_requires_billing_info type="boolean">true</trial_requires_billing_info>
+    <unit_amount_in_cents>
+      <USD type="integer">1000</USD>
+    </unit_amount_in_cents>
+    <setup_fee_in_cents>
+      <USD type="integer">0</USD>
+    </setup_fee_in_cents>
+  </plan>
+  <plan href="https://api.recurly.com/v2/plans/testplan087791b7-89b3-4b40-b8e1-95579862475c">
+    <add_ons href="https://api.recurly.com/v2/plans/testplan087791b7-89b3-4b40-b8e1-95579862475c/add_ons"/>
+    <plan_code>testplan087791b7-89b3-4b40-b8e1-95579862475c</plan_code>
+    <name>Test Plan 087791b7-89b3-4b40-b8e1-95579862475c</name>
+    <description nil="nil"></description>
+    <success_url nil="nil"></success_url>
+    <cancel_url nil="nil"></cancel_url>
+    <display_donation_amounts type="boolean">false</display_donation_amounts>
+    <display_quantity type="boolean">false</display_quantity>
+    <display_phone_number type="boolean">false</display_phone_number>
+    <bypass_hosted_confirmation type="boolean">false</bypass_hosted_confirmation>
+    <unit_name>unit</unit_name>
+    <payment_page_tos_link nil="nil"></payment_page_tos_link>
+    <plan_interval_length type="integer">1</plan_interval_length>
+    <plan_interval_unit>months</plan_interval_unit>
+    <trial_interval_length type="integer">0</trial_interval_length>
+    <trial_interval_unit>days</trial_interval_unit>
+    <total_billing_cycles nil="nil"></total_billing_cycles>
+    <accounting_code nil="nil"></accounting_code>
+    <setup_fee_accounting_code nil="nil"></setup_fee_accounting_code>
+    <created_at type="datetime">2018-07-27T10:21:00Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:21:00Z</updated_at>
+    <revenue_schedule_type>evenly</revenue_schedule_type>
+    <setup_fee_revenue_schedule_type>evenly</setup_fee_revenue_schedule_type>
+    <trial_requires_billing_info type="boolean">true</trial_requires_billing_info>
+    <unit_amount_in_cents>
+      <USD type="integer">1000</USD>
+    </unit_amount_in_cents>
+    <setup_fee_in_cents>
+      <USD type="integer">0</USD>
+    </setup_fee_in_cents>
+  </plan>
+  <plan href="https://api.recurly.com/v2/plans/testplan8d779abe-c112-432a-901c-12c520d9a1c4">
+    <add_ons href="https://api.recurly.com/v2/plans/testplan8d779abe-c112-432a-901c-12c520d9a1c4/add_ons"/>
+    <plan_code>testplan8d779abe-c112-432a-901c-12c520d9a1c4</plan_code>
+    <name>Test Plan 8d779abe-c112-432a-901c-12c520d9a1c4</name>
+    <description nil="nil"></description>
+    <success_url nil="nil"></success_url>
+    <cancel_url nil="nil"></cancel_url>
+    <display_donation_amounts type="boolean">false</display_donation_amounts>
+    <display_quantity type="boolean">false</display_quantity>
+    <display_phone_number type="boolean">false</display_phone_number>
+    <bypass_hosted_confirmation type="boolean">false</bypass_hosted_confirmation>
+    <unit_name>unit</unit_name>
+    <payment_page_tos_link nil="nil"></payment_page_tos_link>
+    <plan_interval_length type="integer">1</plan_interval_length>
+    <plan_interval_unit>months</plan_interval_unit>
+    <trial_interval_length type="integer">0</trial_interval_length>
+    <trial_interval_unit>days</trial_interval_unit>
+    <total_billing_cycles nil="nil"></total_billing_cycles>
+    <accounting_code nil="nil"></accounting_code>
+    <setup_fee_accounting_code nil="nil"></setup_fee_accounting_code>
+    <created_at type="datetime">2018-07-27T10:20:22Z</created_at>
+    <updated_at type="datetime">2018-07-27T10:20:22Z</updated_at>
+    <revenue_schedule_type>evenly</revenue_schedule_type>
+    <setup_fee_revenue_schedule_type>evenly</setup_fee_revenue_schedule_type>
+    <trial_requires_billing_info type="boolean">true</trial_requires_billing_info>
+    <unit_amount_in_cents>
+      <USD type="integer">1000</USD>
+    </unit_amount_in_cents>
+    <setup_fee_in_cents>
+      <USD type="integer">0</USD>
+    </setup_fee_in_cents>
+  </plan>
+  <plan href="https://api.recurly.com/v2/plans/testplanb18fd89d-905e-4d6e-a6fe-cd41ce9de143">
+    <add_ons href="https://api.recurly.com/v2/plans/testplanb18fd89d-905e-4d6e-a6fe-cd41ce9de143/add_ons"/>
+    <plan_code>testplanb18fd89d-905e-4d6e-a6fe-cd41ce9de143</plan_code>
+    <name>Test Plan b18fd89d-905e-4d6e-a6fe-cd41ce9de143</name>
+    <description nil="nil"></description>
+    <success_url nil="nil"></success_url>
+    <cancel_url nil="nil"></cancel_url>
+    <display_donation_amounts type="boolean">false</display_donation_amounts>
+    <display_quantity type="boolean">false</display_quantity>
+    <display_phone_number type="boolean">false</display_phone_number>
+    <bypass_hosted_confirmation type="boolean">false</bypass_hosted_confirmation>
+    <unit_name>unit</unit_name>
+    <payment_page_tos_link nil="nil"></payment_page_tos_link>
+    <plan_interval_length type="integer">1</plan_interval_length>
+    <plan_interval_unit>months</plan_interval_unit>
+    <trial_interval_length type="integer">0</trial_interval_length>
+    <trial_interval_unit>days</trial_interval_unit>
+    <total_billing_cycles nil="nil"></total_billing_cycles>
+    <accounting_code nil="nil"></accounting_code>
+    <setup_fee_accounting_code nil="nil"></setup_fee_accounting_code>
+    <created_at type="datetime">2018-07-06T12:25:01Z</created_at>
+    <updated_at type="datetime">2018-07-06T12:25:01Z</updated_at>
+    <revenue_schedule_type>evenly</revenue_schedule_type>
+    <setup_fee_revenue_schedule_type>evenly</setup_fee_revenue_schedule_type>
+    <trial_requires_billing_info type="boolean">true</trial_requires_billing_info>
+    <unit_amount_in_cents>
+      <USD type="integer">1000</USD>
+    </unit_amount_in_cents>
+    <setup_fee_in_cents>
+      <USD type="integer">0</USD>
+    </setup_fee_in_cents>
+  </plan>
   <plan href="https://api.recurly.com/v2/plans/testplan188fa78d-bbfa-43ff-813c-a5de955c07e2">
     <add_ons href="https://api.recurly.com/v2/plans/testplan188fa78d-bbfa-43ff-813c-a5de955c07e2/add_ons"/>
     <plan_code>testplan188fa78d-bbfa-43ff-813c-a5de955c07e2</plan_code>
