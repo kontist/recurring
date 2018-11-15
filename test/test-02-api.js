@@ -173,17 +173,6 @@ describe('Account', () => {
     })
   })
 
-  it('can create or reopen a previously-closed account, transparently', done => {
-    const data = { id: testAccount.id }
-    recurly.Account().create(data, (err, newAccount) => {
-      demand(err).not.exist()
-      newAccount.must.be.an.object()
-      newAccount.first_name.must.equal('John') // from old data
-      newAccount.last_name.must.equal('Whorfin') // from old data
-      done()
-    })
-  })
-
   it('can fetch a single account', done => {
     const account = recurly.Account()
     account.id = testAccount.id
