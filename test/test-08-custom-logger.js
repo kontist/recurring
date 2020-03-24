@@ -3,19 +3,28 @@
 const demand = require('must')
 const sinon = require('sinon')
 const Recurring = require('../lib/recurly')
+const logger = require('../lib/logger')
 const recurly = new Recurring()
 
 const nock = require('nock')
 
 describe('Custom logger', function() {
   let customLogger
+  let originalLogger
 
-  it('should call custom logger', function(done) {
+  before(function() {
     customLogger = {
       info: sinon.spy()
     }
+    originalLogger = logger.logger
     recurly.setCustomLogger(customLogger)
+  })
 
+  after(function() {
+    recurly.setCustomLogger(originalLogger)
+  })
+
+  it('should call custom logger', function(done) {
     const amount = 1234
     const usageTimestamp = '1970-01-01T12:00:00Z'
     const addonUsage = recurly.AddonUsage()
