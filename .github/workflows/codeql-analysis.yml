@@ -37,11 +37,5 @@ jobs:
       with:
         languages: ${{ matrix.language }}
 
-    - name: Build
-      uses: actions/setup-node@v1
-      with:
-        node-version: 12
-    - run: |
-        npm ci
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
